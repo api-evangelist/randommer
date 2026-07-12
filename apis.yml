@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://randommer.io/randommer-api
 common:
+  - type: DomainSecurity
+    url: security/randommer-domain-security.yml
   - type: Website
     url: https://randommer.io/randommer-api
   - type: PublicAPIsListing
