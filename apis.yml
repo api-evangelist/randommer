@@ -39,7 +39,6 @@ apis:
   - name: Randommer
     description: "Random data generator"
     humanURL: https://randommer.io/randommer-api
-    baseURL: https://randommer.io/randommer-api
     tags:
       - Test Data
     properties:
